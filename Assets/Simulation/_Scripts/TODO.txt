@@ -1,0 +1,26 @@
+
+1) 3D view of room with zoom where fire extinguisher is and zoom where fire is
+2) Instructions appear: Grab the fire extinguisher fast and turn out the flames. Don’t know how to use one? Don’t worry I got you!
+3) Indicate that user should grab fire extinguisher if after 5 seconds user does not.
+4) User takes fire extinguisher closer to flames: ‘’STAND ABOUT 2 METERS FROM FLAMES.’’ Indicate distance from flame.
+5) Zoom camera to top part of Fire Extinguisher to show where the pin is
+6) Text appears ‘’PULL PIN’’. Show instruction on screen how to pull the pin. 
+7) User pulls pin outside by holding on pin and pull it towards opposite to open it.
+8) Once pin pulled camera animates so full view of fire extinguisher can be seen
+9) one hand will appear at the handle of fire extinguisher with its position like handle is grabbed,
+   while the other hand holding tube, and tube pointing on flames.
+10) User AIMS at flames, so this should appear on screen as instruction: AIM AT FLAMES
+11) Instruction to SQUEEZE the lever/handle to spray flames, user then clicks on hand which squeezes the lever/handle.
+12) User SWEEPS by moving tube from side to side or up and down or back and forth on the flame.
+13) Note! Sweeping is done while hand is continuously squeezing the lever/handle.
+14) Let user spray flames 3 times. So, after each spray let text appear ‘’SPRAY AGAIN’’ up to user sprays 3 times.
+15) Flames go off after user sprays 3 times, text appears on screen ‘’WELL DONE, YOU ARE A HERO’’
+16) For all these I think we need a START function, right, so user can restart the process again if they want.
+
+gicmed07@gmail.com
+
+
+conradst07@yahoo.fr
+
+Thinkbig@07
+
